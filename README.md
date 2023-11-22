@@ -1,7 +1,7 @@
 # Eureka-Service-Discovery
 
-### In this we have 2 EUREKA SERVERS -> EurekaServerOne, EurekaServerTwo
-### In this we have 4 EUREKA CLIENTS -> EurekaServerOneClientOne, EurekaServerOneClientTwo,EurekaServerTwoClientOne, EurekaServerTwoClientTwo
+#### In this we have 2 EUREKA SERVERS -> EurekaServerOne, EurekaServerTwo
+#### In this we have 4 EUREKA CLIENTS -> EurekaServerOneClientOne, EurekaServerOneClientTwo,EurekaServerTwoClientOne, EurekaServerTwoClientTwo
 
 ### EurekaServerOne
 ##### It runs on port 8700 and this server will be registered in EurekaServerTwo that runs on port 8800
